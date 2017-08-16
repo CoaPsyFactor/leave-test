@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/",
+      "Modules\\": "Modules/"
+    }
+  },
+  "require": {
+    "slim/slim": "^3.0"
+  }
+}
